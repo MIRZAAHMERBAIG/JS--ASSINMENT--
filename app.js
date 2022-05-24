@@ -5,7 +5,7 @@
 
 
 // question no 1
-// alert("Hello Talha");
+// alert("Hello MIRZA AHMER BAIG");
 
 // question no 2
 // alert("Error! Please Enter A Valid Password");
